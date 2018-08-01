@@ -41,9 +41,6 @@ body {background-color: lavender;
     padding: 5px;
 
 }
-#movemoment:hover {
-    background:url("https://giphy.com/embed/t4ly6tL5BaoRG"
-  )}
 
  .movement:hover {
     cursor:pointer; 
